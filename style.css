@@ -1,12 +1,14 @@
 .cabeçalho {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .cabeçalho-imagem {
     width: 20%;
     height: 20%;
     text-align:left;
+    color: aqua;
+    text-align: end;
 }
 
 .Crítica-economia-política {
