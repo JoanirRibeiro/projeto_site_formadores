@@ -13,9 +13,15 @@
 }
 
 .cabeçalho-título {
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     color:aqua
+}
+
+.cabeçalho-lista-item {
+    font-size: 24px;
+    color: aqua;
+    text-align: inherit;
 }
 
 .Crítica-economia-política {
