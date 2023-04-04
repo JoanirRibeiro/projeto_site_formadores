@@ -1,0 +1,19 @@
+.cabeçalho {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem {
+    width: 8%;
+    height: 8%;
+    text-align: center;
+}
+
+.Crítica-economia-política {
+    background-image: linear-gradient(9A208C, E11299);
+    color: aqua;
+}
+
+.Crítica-economia-política-título {
+    
+}
