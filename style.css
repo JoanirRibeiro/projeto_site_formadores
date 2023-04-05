@@ -1,6 +1,6 @@
 .cabeçalho {
     display: flex;
-    justify-content: space-around;
+    justify-content:center;
     background-color: #9A208C;
 }
 
@@ -30,7 +30,7 @@
     background-image: linear-gradient(#9A208C, #E11299);
     color: aqua;
     font-size: 21px;
-    margin: 0%;
+    margin: 40%;
     padding: 1400px, 1400px;
 }
 
@@ -41,6 +41,6 @@
 
 .Crítica-economia-política-texto {
     margin: 0%;
-    padding: 300px 300px;
+    padding: 50px 50px;
     text-align:center;
 }
