@@ -29,7 +29,7 @@
     color: aqua;
     font-size: 21px;
     margin: 0%;
-    padding: 500px, 500px;
+    padding: 600px, 600px;
 }
 
 .Crítica-economia-política-título {
@@ -40,5 +40,5 @@
 .Crítica-economia-política-texto {
     margin: 0%;
     padding: 100px 100px;
-    text-align: left;
+    text-align:center;
 }
