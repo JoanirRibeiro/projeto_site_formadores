@@ -14,9 +14,6 @@
 .cabeçalho-imagem {
     width: 17%;
     height: 17%;
-    text-align:left;
-    color: aqua;
-    text-align: end;
 }
 
 .cabeçalho-título {
@@ -25,10 +22,10 @@
     color:aqua
 }
 
-.cabeçalho-lista-item {
+.cabeçalho-lista {
+    text-align: justify;
     font-size: 14px;
     color: aqua;
-    text-align: justify;
 }
 
 .Crítica-economia-política {
@@ -51,9 +48,9 @@
 }
 
 .faça-parte {
-    color: aqua;
-    background-color: #E11299;
+    background-color: #E11299; 
     text-align: center;
+    color: aqua;
 }
 
 .faça-parte-imagem {
