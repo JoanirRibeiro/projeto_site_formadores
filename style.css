@@ -28,8 +28,7 @@
 .cabeçalho-lista-item {
     font-size: 14px;
     color: aqua;
-    text-align: inherit;
-    margin: 0%;
+    text-align: justify;
     padding: 1400px, 1400px;
 }
 
