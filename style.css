@@ -51,6 +51,8 @@
     background-color: #E11299; 
     text-align: center;
     color: aqua;
+    margin: 0;
+    padding: auto;
 }
 
 .faça-parte-imagem {
