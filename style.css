@@ -57,4 +57,7 @@
     width: 120px
 }
 
-.faça-parte
+.faça-parte {
+    display: grid;
+    grid-template-columns: ;
+}
