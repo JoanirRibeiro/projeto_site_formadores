@@ -23,6 +23,7 @@
 }
 
 .cabeçalho-lista {
+    display: inline-block;
     text-align: justify;
     font-size: 14px;
     color: aqua;
