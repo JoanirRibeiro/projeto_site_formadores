@@ -28,9 +28,16 @@
 }
 
 .cabeçalho-lista {
-    display: inline-block;
     font-size: 14px;
     color: aqua;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
+}
+
+.cabeçalho-lista-item2 {
+    display: inline-block;
 }
 
 .Crítica-economia-política {
