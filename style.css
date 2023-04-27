@@ -10,7 +10,7 @@
 
 .cabeçalho {
     display: flex;
-    justify-content:center;
+    justify-content:space-around;
     background-color: #9A208C;
     margin: 0;
     padding: 5% 5%;
