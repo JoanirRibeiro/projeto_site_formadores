@@ -29,7 +29,6 @@
 
 .cabeçalho-lista {
     display: inline-block;
-    text-align: justify;
     font-size: 14px;
     color: aqua;
 }
@@ -39,7 +38,7 @@
     color: aqua;
     font-size: 21px;
     margin: 0%;
-    padding: 10px, 10px;
+    padding: 50px, 50px;
 }
 
 
