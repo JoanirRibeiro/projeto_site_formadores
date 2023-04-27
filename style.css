@@ -37,6 +37,11 @@
     padding: 1400px, 1400px;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .Crítica-economia-política-título {
     margin: 0%;
     padding: 300px 300px;
